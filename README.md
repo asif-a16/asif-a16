@@ -35,15 +35,23 @@
 
 # About me
 
-<div>
-  <img align="right" width="350" src="assets/coding.svg" alt="Coding illustration" />
-
-  ✌️ &emsp; I enjoy solving problems and building practical software<br/><br/>
-  ❤️ &emsp; Python is my main tool (and my favorite)<br/><br/>
-  🧰 &emsp; Also comfortable with Kotlin, Java, Scala, C, and C#<br/><br/>
-</div>
-
-<br clear="both" />
+<table>
+	<tr>
+		<td width="60%" valign="top">
+			<p>
+				I build practical software and like problems that force clean thinking.
+			</p>
+			<ul>
+				<li><b>Main</b>: Python (automation, scripting, tooling)</li>
+				<li><b>Also</b>: Kotlin / Java / Scala, plus C and C# when needed</li>
+				<li><b>Focus</b>: data structures &amp; algorithms practice (LeetCode)</li>
+			</ul>
+		</td>
+		<td width="40%" align="center" valign="top">
+			<img src="assets/coding.svg" width="340" alt="Coding illustration" />
+		</td>
+	</tr>
+</table>
 
 ## Use to code
 
