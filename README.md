@@ -6,9 +6,6 @@
 </h2>
 -->
 
-<!-- WakaTime -->
-[![wakatime](https://wakatime.com/badge/user/d0f5fd0d-ca86-444b-85ed-e92993411681.svg)](https://wakatime.com/@d0f5fd0d-ca86-444b-85ed-e92993411681)
-
 <!-- Intro -->
 <h3 align="center">
 	<samp>&gt; Hello World!, I am <b><a href="https://github.com/asif-a16">Asif</a></b></samp>
@@ -38,16 +35,15 @@
 
 # About me
 
-<p>
-	<img align="right" width="350" src="assets/coding.svg" alt="Coding illustration" />
+<div>
+  <img align="right" width="350" src="assets/coding.svg" alt="Coding illustration" />
 
-	✌️ &emsp; I enjoy solving problems and building practical software<br/><br/>
-	❤️ &emsp; Python is my main tool (and my favorite)<br/><br/>
-	🧰 &emsp; Also comfortable with Kotlin, Java, Scala, C, and C#<br/><br/>
-</p>
+  ✌️ &emsp; I enjoy solving problems and building practical software<br/><br/>
+  ❤️ &emsp; Python is my main tool (and my favorite)<br/><br/>
+  🧰 &emsp; Also comfortable with Kotlin, Java, Scala, C, and C#<br/><br/>
+</div>
 
-<br/>
-<br/>
+<br clear="both" />
 
 ## Use to code
 
@@ -96,6 +92,25 @@
 		<img
 			src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asif-a16&theme=github_dark"
 			alt="Profile summary"
+		/>
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/asif-a16">
+		<img
+			alt="GitHub stats"
+			src="https://denvercoder1-github-readme-stats.vercel.app/api?username=asif-a16&show_icons=true&count_private=true&theme=react&border_color=30363d&bg_color=0D1117&title_color=58A6FF&icon_color=f778ba"
+			height="180px"
+			width="49%"
+		/>
+	</a>
+	<a href="https://github.com/asif-a16">
+		<img
+			alt="Most used languages"
+			src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=asif-a16&langs_count=8&layout=compact&theme=react&border_color=30363d&bg_color=0D1117&title_color=58A6FF&icon_color=f778ba"
+			height="180px"
+			width="49%"
 		/>
 	</a>
 </p>

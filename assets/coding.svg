@@ -40,9 +40,4 @@
     <path d="M540 164 L520 184 L540 204" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M575 164 L595 184 L575 204" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
-
-  <!-- Footer text -->
-  <text x="350" y="392" text-anchor="middle" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-size="14">
-    Replace this illustration with your own GIF if you want.
-  </text>
 </svg>
