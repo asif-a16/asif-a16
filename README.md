@@ -1,84 +1,103 @@
-<div align="center">
+<!-- Optional header (enable if you like) -->
+<!--
+<h2 align="center">
+	Welcome!
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+</h2>
+-->
 
-# Hi, I’m Asif
+<!-- WakaTime -->
+[![wakatime](https://wakatime.com/badge/user/d0f5fd0d-ca86-444b-85ed-e92993411681.svg)](https://wakatime.com/@d0f5fd0d-ca86-444b-85ed-e92993411681)
 
-<img
-	src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Python-first+developer;Also+use%3A+Kotlin+%7C+Java+%7C+Scala+%7C+C+%7C+C%23;LeetCode+enjoyer+%E2%86%92+algorithms+and+data+structures"
-	alt="Typing animation"
-/>
+<!-- Intro -->
+<h3 align="center">
+	<samp>&gt; Hello World!, I am <b><a href="https://github.com/asif-a16">Asif</a></b></samp>
+</h3>
 
-</div>
+<p align="center">
+	<a href="https://readme-typing-svg.demolab.com">
+		<img
+			src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Python-first+developer;Also+use%3A+Kotlin+%7C+Java+%7C+Scala+%7C+C+%7C+C%23;LeetCode+%2B+DSA+practice"
+			alt="Typing animation"
+		/>
+	</a>
+</p>
 
----
+<p align="center">
+	<a href="https://www.linkedin.com/in/asif-ch-amd/" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+	<a href="https://leetcode.com/asif-c1/" target="_blank">
+		<img src="https://img.shields.io/badge/LeetCode-F7DF1E?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+	</a>
+</p>
 
-## About
+<br />
 
-- Primary: **Python**
-- Also: **Kotlin**, **Java**, **Scala**, **C**, **C#**
-- Interests: problem solving, clean APIs, pragmatic tooling
+<!-- About Section -->
 
-## Tech I use
+# About me
 
-<div align="left">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-	<img width="10" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-	<img width="10" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-	<img width="10" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="Scala" />
-	<img width="10" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-	<img width="10" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-</div>
+<p>
+	<img align="right" width="350" src="assets/coding.svg" alt="Coding illustration" />
 
-## Stats
+	✌️ &emsp; I enjoy solving problems and building practical software<br/><br/>
+	❤️ &emsp; Python is my main tool (and my favorite)<br/><br/>
+	🧰 &emsp; Also comfortable with Kotlin, Java, Scala, C, and C#<br/><br/>
+</p>
 
-<div align="center">
-	<img
-		height="160"
-		src="https://github-readme-stats.vercel.app/api?username=asif-a16&show_icons=true&hide_title=true&theme=github_dark&rank_icon=github"
-		alt="GitHub stats"
-	/>
-	<img
-		height="160"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif-a16&layout=compact&theme=github_dark&langs_count=8"
-		alt="Top languages"
-	/>
-</div>
+<br/>
+<br/>
 
-<div align="center">
-	<img
-		src="https://streak-stats.demolab.com?user=asif-a16&theme=github-dark-blue&hide_border=true"
-		alt="GitHub streak"
-	/>
-</div>
+## Use to code
+
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-dc322f?style=for-the-badge&logo=scala&logoColor=white)
+![C](https://img.shields.io/badge/C-00599c?style=for-the-badge&logo=c&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+<br/>
 
 ## LeetCode
 
-Replace `YOUR_LEETCODE_USERNAME` below:
+<p align="center">
+	<a href="https://leetcode.com/asif-c1/" target="_blank">
+		<img src="https://leetcard.jacoblin.cool/asif-c1?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode stats" />
+	</a>
+</p>
 
-<div align="center">
-	<a href="https://leetcode.com/asif-c1/">
+<br/>
+
+<p align="left">
+	<a href="https://github.com/asif-a16?tab=repositories" target="_blank">
+		<img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white" />
+	</a>
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+<!-- Stats -->
+
+<p align="center">
+	<a href="https://github.com/asif-a16">
 		<img
-			src="https://leetcard.jacoblin.cool/asif-c1?theme=dark&font=Fira%20Code&ext=contest"
-			alt="LeetCode stats"
+			src="https://streak-stats.demolab.com?user=asif-a16&theme=github-dark-blue&hide_border=true"
+			alt="GitHub streak"
 		/>
 	</a>
-</div>
+</p>
 
-## Contribution snake (animated)
+<p align="center">
+	<a href="https://github.com/asif-a16">
+		<img
+			src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asif-a16&theme=github_dark"
+			alt="Profile summary"
+		/>
+	</a>
+</p>
 
-If you enable the workflow in `.github/workflows/snake.yml`, this will render automatically:
-
-<div align="center">
-	<img src="https://raw.githubusercontent.com/asif-a16/asif-a16/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</div>
-
----
-
-### Quick links
-
-- GitHub: https://github.com/asif-a16
-- LeetCode: https://leetcode.com/YOUR_LEETCODE_USERNAME/
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asif-a16&custom_title=asif-a16%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=f778ba&area=true&hide_border=true)
